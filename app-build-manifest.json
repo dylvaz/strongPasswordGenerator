@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-a785c941f80c2152.js",
+      "static/chunks/fd9d1056-90960e0a7e77703c.js",
+      "static/chunks/23-2e5b9add92bc652f.js",
+      "static/chunks/main-app-77e7a13945664416.js",
+      "static/chunks/app/_not-found/page-d0156b4c3a1e70d8.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-a785c941f80c2152.js",
+      "static/chunks/fd9d1056-90960e0a7e77703c.js",
+      "static/chunks/23-2e5b9add92bc652f.js",
+      "static/chunks/main-app-77e7a13945664416.js",
+      "static/css/f69c745cafef4b48.css",
+      "static/chunks/app/layout-799fa26be3127c0e.js"
+    ],
+    "/passwordGenerator/page": [
+      "static/chunks/webpack-a785c941f80c2152.js",
+      "static/chunks/fd9d1056-90960e0a7e77703c.js",
+      "static/chunks/23-2e5b9add92bc652f.js",
+      "static/chunks/main-app-77e7a13945664416.js",
+      "static/chunks/187-0f4e851fac011927.js",
+      "static/chunks/app/passwordGenerator/page-2b9eda3549f7bbae.js"
+    ]
+  }
+}
